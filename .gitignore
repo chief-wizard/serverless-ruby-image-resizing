@@ -1,0 +1,7 @@
+node_modules
+.serverless
+env.sh
+.rbenv-gemsets
+vendor/bundle
+.bundle
+.ruby-version
