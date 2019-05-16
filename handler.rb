@@ -1,5 +1,7 @@
+load "vendor/bundle/bundler/setup.rb"
+
 require 'json'
-require './resize_image'
+require './lib/resize_image'
 
 def call(event:, context:)
   begin
