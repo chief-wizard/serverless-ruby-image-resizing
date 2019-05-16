@@ -5,3 +5,4 @@ env.sh
 vendor/bundle
 .bundle
 .ruby-version
+.env
