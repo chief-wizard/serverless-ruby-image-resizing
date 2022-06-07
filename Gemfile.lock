@@ -19,7 +19,7 @@ GEM
     aws-sigv4 (1.1.0)
       aws-eventstream (~> 1.0, >= 1.0.2)
     http-2 (0.10.1)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     mini_magick (4.9.4)
 
 PLATFORMS
